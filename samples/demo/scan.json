@@ -1,0 +1,471 @@
+{
+  "schema": "legofinder.scan/1",
+  "recogniser": "hand-made",
+  "photos": [
+    {
+      "path": "tray.png",
+      "sha256": "74eb96e7e941ec7b5b0796a81e2046d90b645d4b67d9bbdbcb379e2851137ad0",
+      "width": 1400,
+      "height": 900,
+      "background": "EBEBE6",
+      "detections": [
+        {
+          "id": "tray#1",
+          "box": {
+            "x": 0.07071,
+            "y": 0.11,
+            "w": 0.10429,
+            "h": 0.08222,
+            "centreX": 0.12285499999999999,
+            "centreY": 0.15111
+          },
+          "areaFraction": 0.008571,
+          "colour": {
+            "measured": "C81A09",
+            "predicted": [
+              {
+                "id": "5",
+                "name": "Red",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3001",
+              "name": "Brick 2 x 4",
+              "system": "BrickLink",
+              "score": 0.91
+            },
+            {
+              "partId": "3001pr9999",
+              "name": "Brick 2 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.55
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#2",
+          "box": {
+            "x": 0.285,
+            "y": 0.13222,
+            "w": 0.05286,
+            "h": 0.08222,
+            "centreX": 0.31143,
+            "centreY": 0.17333
+          },
+          "areaFraction": 0.004343,
+          "colour": {
+            "measured": "237742",
+            "predicted": [
+              {
+                "id": "6",
+                "name": "Green",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3003",
+              "name": "Brick 2 x 2",
+              "system": "BrickLink",
+              "score": 0.9
+            },
+            {
+              "partId": "3003pr9999",
+              "name": "Brick 2 x 2 with print",
+              "system": "BrickLink",
+              "score": 0.54
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#3",
+          "box": {
+            "x": 0.44214,
+            "y": 0.11,
+            "w": 0.10429,
+            "h": 0.08222,
+            "centreX": 0.494285,
+            "centreY": 0.15111
+          },
+          "areaFraction": 0.008567,
+          "colour": {
+            "measured": "F0CC38",
+            "predicted": [
+              {
+                "id": "3",
+                "name": "Yellow",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3020",
+              "name": "Plate 2 x 4",
+              "system": "BrickLink",
+              "score": 0.84
+            },
+            {
+              "partId": "3020pr9999",
+              "name": "Plate 2 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.5
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#4",
+          "box": {
+            "x": 0.79929,
+            "y": 0.12111,
+            "w": 0.10429,
+            "h": 0.08222,
+            "centreX": 0.8514349999999999,
+            "centreY": 0.16222
+          },
+          "areaFraction": 0.008571,
+          "colour": {
+            "measured": "C81A09",
+            "predicted": [
+              {
+                "id": "5",
+                "name": "Red",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3001",
+              "name": "Brick 2 x 4",
+              "system": "BrickLink",
+              "score": 0.86
+            },
+            {
+              "partId": "3001pr9999",
+              "name": "Brick 2 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.52
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#5",
+          "box": {
+            "x": 0.085,
+            "y": 0.46556,
+            "w": 0.05286,
+            "h": 0.04222,
+            "centreX": 0.11143,
+            "centreY": 0.48667
+          },
+          "areaFraction": 0.002229,
+          "colour": {
+            "measured": "0054C2",
+            "predicted": [
+              {
+                "id": "7",
+                "name": "Blue",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3004",
+              "name": "Brick 1 x 2",
+              "system": "BrickLink",
+              "score": 0.89
+            },
+            {
+              "partId": "3004pr9999",
+              "name": "Brick 1 x 2 with print",
+              "system": "BrickLink",
+              "score": 0.53
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#6",
+          "box": {
+            "x": 0.235,
+            "y": 0.44333,
+            "w": 0.02714,
+            "h": 0.08222,
+            "centreX": 0.24856999999999999,
+            "centreY": 0.48444
+          },
+          "areaFraction": 0.002229,
+          "colour": {
+            "measured": "0054C2",
+            "predicted": [
+              {
+                "id": "7",
+                "name": "Blue",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3004",
+              "name": "Brick 1 x 2",
+              "system": "BrickLink",
+              "score": 0.87
+            },
+            {
+              "partId": "3004pr9999",
+              "name": "Brick 1 x 2 with print",
+              "system": "BrickLink",
+              "score": 0.52
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#7",
+          "box": {
+            "x": 0.37071,
+            "y": 0.47667,
+            "w": 0.05286,
+            "h": 0.04222,
+            "centreX": 0.39714,
+            "centreY": 0.49778
+          },
+          "areaFraction": 0.002229,
+          "colour": {
+            "measured": "05131D",
+            "predicted": [
+              {
+                "id": "11",
+                "name": "Black",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3023",
+              "name": "Plate 1 x 2",
+              "system": "BrickLink",
+              "score": 0.83
+            },
+            {
+              "partId": "3023pr9999",
+              "name": "Plate 1 x 2 with print",
+              "system": "BrickLink",
+              "score": 0.5
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#8",
+          "box": {
+            "x": 0.54214,
+            "y": 0.48778,
+            "w": 0.02714,
+            "h": 0.04222,
+            "centreX": 0.5557099999999999,
+            "centreY": 0.50889
+          },
+          "areaFraction": 0.000924,
+          "colour": {
+            "measured": "BAE70B",
+            "predicted": [
+              {
+                "id": "34",
+                "name": "Lime",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3062b",
+              "name": "Brick Round 1 x 1",
+              "system": "BrickLink",
+              "score": 0.42
+            },
+            {
+              "partId": "3062bpr9999",
+              "name": "Brick Round 1 x 1 with print",
+              "system": "BrickLink",
+              "score": 0.25
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#9",
+          "box": {
+            "x": 0.74214,
+            "y": 0.44333,
+            "w": 0.05286,
+            "h": 0.08222,
+            "centreX": 0.76857,
+            "centreY": 0.48444
+          },
+          "areaFraction": 0.004343,
+          "colour": {
+            "measured": "C81A09",
+            "predicted": [
+              {
+                "id": "5",
+                "name": "Red",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3003",
+              "name": "Brick 2 x 2",
+              "system": "BrickLink",
+              "score": 0.9
+            },
+            {
+              "partId": "3003pr9999",
+              "name": "Brick 2 x 2 with print",
+              "system": "BrickLink",
+              "score": 0.54
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#10",
+          "box": {
+            "x": 0.64214,
+            "y": 0.62111,
+            "w": 0.05286,
+            "h": 0.16222,
+            "centreX": 0.66857,
+            "centreY": 0.7022200000000001
+          },
+          "areaFraction": 0.008571,
+          "colour": {
+            "measured": "C81A09",
+            "predicted": [
+              {
+                "id": "5",
+                "name": "Red",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3001",
+              "name": "Brick 2 x 4",
+              "system": "BrickLink",
+              "score": 0.88
+            },
+            {
+              "partId": "3001pr9999",
+              "name": "Brick 2 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.53
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#11",
+          "box": {
+            "x": 0.10643,
+            "y": 0.72111,
+            "w": 0.10429,
+            "h": 0.08222,
+            "centreX": 0.158575,
+            "centreY": 0.76222
+          },
+          "areaFraction": 0.008571,
+          "colour": {
+            "measured": "0054C2",
+            "predicted": [
+              {
+                "id": "7",
+                "name": "Blue",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3001",
+              "name": "Brick 2 x 4",
+              "system": "BrickLink",
+              "score": 0.9
+            },
+            {
+              "partId": "3001pr9999",
+              "name": "Brick 2 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.54
+            }
+          ],
+          "recognition": "Ok"
+        },
+        {
+          "id": "tray#12",
+          "box": {
+            "x": 0.35643,
+            "y": 0.77667,
+            "w": 0.10429,
+            "h": 0.04222,
+            "centreX": 0.408575,
+            "centreY": 0.7977799999999999
+          },
+          "areaFraction": 0.004394,
+          "colour": {
+            "measured": "9FA4AB",
+            "predicted": [
+              {
+                "id": "86",
+                "name": "Light Bluish Gray",
+                "system": "BrickLink",
+                "score": 0.8
+              }
+            ]
+          },
+          "candidates": [
+            {
+              "partId": "3710",
+              "name": "Plate 1 x 4",
+              "system": "BrickLink",
+              "score": 0.85
+            },
+            {
+              "partId": "3710pr9999",
+              "name": "Plate 1 x 4 with print",
+              "system": "BrickLink",
+              "score": 0.51
+            }
+          ],
+          "recognition": "Ok"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LegoFinder.Cli/LegoFinder.Cli.csproj" />
+    <Project Path="src/LegoFinder.Core/LegoFinder.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LegoFinder.Cli.Tests/LegoFinder.Cli.Tests.csproj" />
+    <Project Path="tests/LegoFinder.Core.Tests/LegoFinder.Core.Tests.csproj" />
+  </Folder>
+</Solution>

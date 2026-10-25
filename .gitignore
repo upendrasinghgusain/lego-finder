@@ -1,0 +1,11 @@
+bin/
+obj/
+out/
+TestResults/
+coverage/
+.vs/
+*.user
+.legofinder-cache/
+photos/
+data/rebrickable/*.zip
+.env

@@ -1,0 +1,157 @@
+{
+  "schema": "legofinder.parts/1",
+  "source": "Hand-written",
+  "kind": "File",
+  "id": "DEMO-1",
+  "name": "Demo mini model",
+  "totalQuantity": 9,
+  "lines": [
+    {
+      "number": 1,
+      "partId": "3001",
+      "partName": "Brick 2 x 4",
+      "colour": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "isTransparent": false,
+        "brickLinkIds": [
+          5
+        ]
+      },
+      "quantity": 2,
+      "catalogueUrl": "https://rebrickable.com/parts/3001/",
+      "externalIds": {
+        "BrickLink": [
+          "3001"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "partId": "3003",
+      "partName": "Brick 2 x 2",
+      "colour": {
+        "id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "isTransparent": false,
+        "brickLinkIds": [
+          6
+        ]
+      },
+      "quantity": 1,
+      "catalogueUrl": "https://rebrickable.com/parts/3003/",
+      "externalIds": {
+        "BrickLink": [
+          "3003"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "partId": "3020",
+      "partName": "Plate 2 x 4",
+      "colour": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "isTransparent": false,
+        "brickLinkIds": [
+          3
+        ]
+      },
+      "quantity": 1,
+      "catalogueUrl": "https://rebrickable.com/parts/3020/",
+      "externalIds": {
+        "BrickLink": [
+          "3020"
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "partId": "3004",
+      "partName": "Brick 1 x 2",
+      "colour": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "isTransparent": false,
+        "brickLinkIds": [
+          7
+        ]
+      },
+      "quantity": 2,
+      "catalogueUrl": "https://rebrickable.com/parts/3004/",
+      "externalIds": {
+        "BrickLink": [
+          "3004"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "partId": "3023",
+      "partName": "Plate 1 x 2",
+      "colour": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "isTransparent": false,
+        "brickLinkIds": [
+          11
+        ]
+      },
+      "quantity": 1,
+      "catalogueUrl": "https://rebrickable.com/parts/3023/",
+      "externalIds": {
+        "BrickLink": [
+          "3023"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "partId": "3022",
+      "partName": "Plate 2 x 2",
+      "colour": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "isTransparent": false,
+        "brickLinkIds": [
+          4
+        ]
+      },
+      "quantity": 1,
+      "catalogueUrl": "https://rebrickable.com/parts/3022/",
+      "externalIds": {
+        "BrickLink": [
+          "3022"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "partId": "3062b",
+      "partName": "Brick Round 1 x 1",
+      "colour": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "isTransparent": false,
+        "brickLinkIds": [
+          34
+        ]
+      },
+      "quantity": 1,
+      "catalogueUrl": "https://rebrickable.com/parts/3062b/",
+      "externalIds": {
+        "BrickLink": [
+          "3062b"
+        ]
+      }
+    }
+  ]
+}
